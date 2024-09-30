@@ -1,0 +1,11 @@
+.new{
+    width:90%;
+    height: 400px;
+    background-color: antiquewhite;
+}
+.law{
+    width: 50PX;
+    background-color: aqua;
+    display: inline-block;
+
+}
